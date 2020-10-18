@@ -1,4 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
+  startGame();
+});
+
+function startGame() {
   const grid = document.querySelector('.grid');
   let width = 10;
   let squares = [];
@@ -163,4 +167,4 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
   }
-});
+}
