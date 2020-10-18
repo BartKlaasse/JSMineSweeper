@@ -8,6 +8,7 @@ based on: https://www.youtube.com/watch?v=W0No1JDc6vE&list=WL&index=6
 - [ ] Make startscreen
 - [ ] Enter name on startscreen and save that
 - [ ] start game on gamestart button press
+- [ ] restart game after gameover
 - [ ] Develop highscore api
 - [ ] submit score to highscore api
 - [ ] beautify the ui
