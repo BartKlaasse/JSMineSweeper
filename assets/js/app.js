@@ -9,7 +9,8 @@ function startGame() {
   let bombAmount = 20;
   let flags = 0;
   let isGameOver = false;
-  let name = prompt('Please enter your name');
+  //  TODO: implement name for highscores
+  // let name = prompt('Please enter your name');
 
   // create board
   function createBoard() {

@@ -2,6 +2,7 @@
   height: 400px;
   width: 400px;
   display: flex;
+  /*toggle display to none to make this disappear!*/
   flex-wrap: wrap;
   background-color: grey;
   margin: auto;
