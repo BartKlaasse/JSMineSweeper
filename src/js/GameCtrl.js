@@ -155,7 +155,4 @@ const GameCtrl = (function () {
   };
 })();
 
-// only create board once dom has been loaded
-document.addEventListener('DOMContentLoaded', () => {
-  GameCtrl.createBoard();
-});
+export default GameCtrl;
