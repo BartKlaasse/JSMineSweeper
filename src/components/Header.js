@@ -1,8 +1,11 @@
 const Header = () => {
   const template = `
     <header>
-    <h1> My App</h1>
-    <p>this is a boilerplate for a simple js workflow using parcel</p>
+      <h1 class="glitch">
+        <span aria-hidden="true">Minesweeper</span>
+           Minesweeper
+        <span aria-hidden="true">Minesweeper</span>
+      </h1>
     </header>
     `;
 

@@ -1,6 +1,6 @@
 // Import components
 import Header from './components/Header';
-import Grid from './components/Grid';
+
 // Import Js modules
 import GameCtrl from './js/GameCtrl';
 //import scss file here

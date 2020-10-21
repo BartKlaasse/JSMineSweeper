@@ -1,5 +1,6 @@
 const GameCtrl = (function () {
   const grid = document.querySelector('.grid');
+  console.log('grid ' + grid);
   let width = 10;
   let squares = [];
   let bombAmount = 20;
